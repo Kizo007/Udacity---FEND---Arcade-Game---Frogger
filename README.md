@@ -3,6 +3,7 @@
 ## Table of Contents
 
 #Introduction
+#How To Play
 #Instructions
 #contributing
 
@@ -10,7 +11,13 @@
 
 This is a version of the classic arcade game 'Frogger' created as part of the Udacity Front End Nanodegree Program.
 
-Play the game in your browser by following this link: https://codepen.io/kizo007/pen/vPZmMa
+## How To Play
+
+1.Download or clone the repository on your machine.
+
+2.Extract the .zip file
+
+3.Open index.html in your browser
 
 
 ## Instructions
